@@ -873,20 +873,6 @@
         "": "/proxy/api/imgchest/chapter/9p4nzenww4n"
       }
     },
-    "134": {
-      "title": "",
-      "last_updated": "1764284000",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b6w5dky5"
-      }
-    },
-    "135": {
-      "title": "",
-      "last_updated": "1764284002",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7pnjve8yo"
-      }
-    },
     "62": {
       "title": "",
       "last_updated": "1764284045",
@@ -906,6 +892,13 @@
       "last_updated": "1764286268",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qe4gqde8j7j"
+      }
+    },
+    "120": {
+      "title": "",
+      "last_updated": "1764287855",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2opdvz4l"
       }
     }
   }
