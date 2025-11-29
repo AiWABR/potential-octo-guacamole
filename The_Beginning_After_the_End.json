@@ -1,6 +1,6 @@
 {
   "title": "The Beginning After the End",
-  "description": "|",
+  "description": "Rei Grey conquistou força, riquezas e prestígio sem iguais em um mundo governado pela habilidade marcial. Entretanto, a solidão acompanha de perto aqueles de grande poder. Por detrás da máscara de um glorioso e poderoso rei, reside a casca vazia de um homem destituído de propósito e vontade. Renascido em um novo mundo repleto de magia e monstros, o Rei Grey terá a chance de refazer sua vida. Corrigir os erros do passado não será seu único desafio, pois um perigo oculto cresce a cada instante, ameaçando destruir tudo que ele trabalhou para criar, o fazendo questionar a verdadeira razão de ter recebido uma nova vida…",
   "artist": "Eginhardt, Fuyuki23, LiLi, XUANSHAN",
   "author": "TurtleMe",
   "cover": "https://images.mangabaka.dev/b/d/b/e/8/9/f/c/000d/41e5/ad8f/ed5eb3de5799",
@@ -1627,6 +1627,13 @@
       "last_updated": "1764368641",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qb4zp9b95yj"
+      }
+    },
+    "209": {
+      "title": "",
+      "last_updated": "1764375209",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yxnkbo37q"
       }
     }
   }
