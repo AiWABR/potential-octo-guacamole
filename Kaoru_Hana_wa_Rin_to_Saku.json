@@ -1,0 +1,44 @@
+{
+  "title": "Kaoru Hana wa Rin to Saku",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "60": {
+      "title": "",
+      "last_updated": "1765163147",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7me9nrjyd"
+      }
+    },
+    "70": {
+      "title": "",
+      "last_updated": "1765163153",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg73orp337r"
+      }
+    },
+    "80": {
+      "title": "",
+      "last_updated": "1765163159",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wnlv2b7x"
+      }
+    },
+    "01": {
+      "title": "",
+      "last_updated": "1765163162",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyelavok4d"
+      }
+    },
+    "90": {
+      "title": "",
+      "last_updated": "1765163248",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nzn2al4n"
+      }
+    }
+  }
+}
