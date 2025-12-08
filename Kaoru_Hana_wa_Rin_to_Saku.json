@@ -1,43 +1,246 @@
 {
   "title": "Kaoru Hana wa Rin to Saku",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "description": "Em um lugar específico, existem duas escolas secundárias vizinhas. A Escola Secundária Chidori, uma escola para rapazes considerada de nível inferior, onde se reúnem estudantes menos dedicados, e a Escola para Meninas Kikyo, uma instituição bem estabelecida. Rintaro Tsumugi, um estudante do segundo ano forte e tranquilo da Escola Secundária Chidori, conhece Kaoruko Waguri, uma garota que aparece como cliente enquanto ajuda na confeitaria da sua família. Rintaro se sente à vontade passando tempo com Kaoruko, mas ela é uma aluna da Escola para Meninas Kikyo, uma escola vizinha que tem aversão à Escola Secundária Chidori. Esta é a história de duas pessoas que estão tão próximas e, ao mesmo tempo, tão distantes.",
+  "artist": "Mikami Saka",
+  "author": "Mikami Saka",
+  "cover": "https://cdn.myanimelist.net/images/manga/5/256607l.jpg",
   "chapters": {
-    "60": {
+    "02.5": {
       "title": "",
-      "last_updated": "1765163147",
+      "last_updated": "1765197173",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7me9nrjyd"
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/9249kvvwmyn"
       }
     },
-    "70": {
+    "03": {
       "title": "",
-      "last_updated": "1765163153",
+      "last_updated": "1765197191",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg73orp337r"
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/m9yxnjjrq7q"
       }
     },
-    "80": {
+    "02": {
       "title": "",
-      "last_updated": "1765163159",
+      "last_updated": "1765197229",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wnlv2b7x"
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/agyvn22qj48"
+      }
+    },
+    "04": {
+      "title": "",
+      "last_updated": "1765197230",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/ne7b655djy5"
+      }
+    },
+    "05": {
+      "title": "",
+      "last_updated": "1765197235",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/na7kkoomb78"
       }
     },
     "01": {
       "title": "",
-      "last_updated": "1765169855",
+      "last_updated": "1765197267",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryd2xpe64k"
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/9p4nznnwm4n"
       }
     },
-    "90": {
+    "07": {
       "title": "",
-      "last_updated": "1765163248",
+      "last_updated": "1765197272",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4nzn2al4n"
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/wl7lw99gq4x"
+      }
+    },
+    "06": {
+      "title": "",
+      "last_updated": "1765197277",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/vj4jm99kx48"
+      }
+    },
+    "08": {
+      "title": "",
+      "last_updated": "1765197278",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/ljyqkvvxny2"
+      }
+    },
+    "09": {
+      "title": "",
+      "last_updated": "1765197312",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/6eyrnvvmg7p"
+      }
+    },
+    "10": {
+      "title": "",
+      "last_updated": "1765197325",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/ej7me99lnyd"
+      }
+    },
+    "101": {
+      "title": "",
+      "last_updated": "1765197329",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/n87wnllxg7x"
+      }
+    },
+    "100": {
+      "title": "",
+      "last_updated": "1765197346",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/lqyelaagq4d"
+      }
+    },
+    "102": {
+      "title": "",
+      "last_updated": "1765197362",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/qe4gqee5j7j"
+      }
+    },
+    "110": {
+      "title": "",
+      "last_updated": "1765197501",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/6eyrnvvlg7p"
+      }
+    },
+    "111": {
+      "title": "",
+      "last_updated": "1765197509",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/ej7me998nyd"
+      }
+    },
+    "11": {
+      "title": "",
+      "last_updated": "1765197511",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/pg73orrlj7r"
+      }
+    },
+    "112": {
+      "title": "",
+      "last_updated": "1765197512",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/n87wnllmg7x"
+      }
+    },
+    "112.5": {
+      "title": "",
+      "last_updated": "1765197516",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/lqyelaamq4d"
+      }
+    },
+    "115": {
+      "title": "",
+      "last_updated": "1765197566",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/bp45o33qq75"
+      }
+    },
+    "113": {
+      "title": "",
+      "last_updated": "1765197567",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/qe4gqeewj7j"
+      }
+    },
+    "114": {
+      "title": "",
+      "last_updated": "1765197571",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/xny8633m54b"
+      }
+    },
+    "116": {
+      "title": "",
+      "last_updated": "1765197610",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/o24a633j2yl"
+      }
+    },
+    "118": {
+      "title": "",
+      "last_updated": "1765197624",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/9249kvv3myn"
+      }
+    },
+    "117": {
+      "title": "",
+      "last_updated": "1765197625",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/9p4nznn8m4n"
+      }
+    },
+    "119": {
+      "title": "",
+      "last_updated": "1765197631",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/ne7b655qjy5"
+      }
+    },
+    "12.5": {
+      "title": "",
+      "last_updated": "1765197639",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/na7kkoo8b78"
+      }
+    },
+    "12": {
+      "title": "",
+      "last_updated": "1765197656",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/md7ob998r4p"
+      }
+    },
+    "120": {
+      "title": "",
+      "last_updated": "1765197678",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/5xy2odd294l"
+      }
+    },
+    "122": {
+      "title": "",
+      "last_updated": "1765197691",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/ljyqkvv2ny2"
+      }
+    },
+    "121": {
+      "title": "",
+      "last_updated": "1765197693",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/wl7lw99oq4x"
+      }
+    },
+    "124": {
+      "title": "",
+      "last_updated": "1765197729",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/ej7me99anyd"
+      }
+    },
+    "13.5": {
+      "title": "",
+      "last_updated": "1765197769",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/lqyelaadq4d"
+      }
+    },
+    "128": {
+      "title": "",
+      "last_updated": "1765197778",
+      "groups": {
+        "Inu no Kai, kud23, Mundo mangá-kun": "/proxy/api/imgchest/chapter/n87wnll9g7x"
       }
     }
   }
