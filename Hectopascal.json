@@ -9,8 +9,7 @@
       "title": "Capítulo 01",
       "volume": "",
       "last_updated": "1765520166",
-      "groups": {
-        "0": [
+      "groups":  [
           "https://files.catbox.moe/rxsadj.avif",
           "https://files.catbox.moe/6sgcn0.avif",
           "https://files.catbox.moe/w8uvsn.avif",
@@ -42,14 +41,13 @@
           "https://files.catbox.moe/o006xs.avif",
           "https://files.catbox.moe/jqzcvm.avif"
         ]
-      }
+      
     },
     "2": {
       "title": "Capítulo 02",
       "volume": "",
       "last_updated": "1765520199",
-      "groups": {
-        "0": [
+      "groups":  [
           "https://files.catbox.moe/07kmoa.webp",
           "https://files.catbox.moe/o6lo5a.webp",
           "https://files.catbox.moe/z0c7iy.webp",
@@ -74,14 +72,13 @@
           "https://files.catbox.moe/7vxg7v.webp",
           "https://files.catbox.moe/yze018.webp"
         ]
-      }
+      
     },
     "3": {
       "title": "Capítulo 03",
       "volume": "",
       "last_updated": "1765520223",
-      "groups": {
-        "0": [
+      "groups":  [
           "https://files.catbox.moe/07kmoa.webp",
           "https://files.catbox.moe/t5cc0o.webp",
           "https://files.catbox.moe/zlobb0.webp",
@@ -104,7 +101,7 @@
           "https://files.catbox.moe/1q88ee.webp",
           "https://files.catbox.moe/yze018.webp"
         ]
-      }
+      
     },
     "4": {
       "title": "Capítulo 04",
