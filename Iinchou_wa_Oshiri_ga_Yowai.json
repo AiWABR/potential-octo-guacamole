@@ -1,11 +1,9 @@
 {
     "title": "Iinchou wa Oshiri ga Yowai",
-    "chapters": [
-        {
-            "chapter": 1,
-            "title": "Iinchou wa Oshiri ga Yowai",
-            "groups": {
-                "": [
+    "chapters": {
+        "1": {
+            "title": "",
+            "groups": [
                     "https://files.catbox.moe/uy3oip.webp",
                     "https://files.catbox.moe/ty8gzy.webp",
                     "https://files.catbox.moe/en6t63.webp",
@@ -30,8 +28,7 @@
                     "https://files.catbox.moe/gc1cbz.webp",
                     "https://files.catbox.moe/k4gi4a.webp",
                     "https://files.catbox.moe/5wrp53.webp"
-                ]
-            }
+            ]
         }
-    ]
+    }
 }
