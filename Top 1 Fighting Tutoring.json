@@ -5,8 +5,8 @@
     "author": "Kim Tae-Kyung",
     "cover": "https://cdn.myanimelist.net/images/manga/2/305510.jpg",
     "chapters": {
-        "Capítulo 1 - Encontro Predestinado": {
-            "title": "",
+        "1": {
+            "title": "Capítulo 1 - Encontro Predestinado",
             "last_updated": "1765712944",
             "groups": {
                 "": [
@@ -220,8 +220,8 @@
                 ]
             }
         },
-        "Capítulo 10 - Não tem dentes, morda com as gengivas": {
-            "title": "",
+        "10": {
+            "title": "Capítulo 10 - Não tem dentes, morda com as gengivas",
             "last_updated": "1765713022",
             "groups": {
                 "": [
@@ -245,8 +245,8 @@
                 ]
             }
         },
-        "Capítulo 11 - A Ascensão do Azarão": {
-            "title": "",
+        "11": {
+            "title": "Capítulo 11 - A Ascensão do Azarão",
             "last_updated": "1765713113",
             "groups": {
                 "": [
@@ -274,8 +274,8 @@
                 ]
             }
         },
-        "Capítulo 12 - Kwak Hansol": {
-            "title": "",
+        "12": {
+            "title": "Capítulo 12 - Kwak Hansol",
             "last_updated": "1765713253",
             "groups": {
                 "": [
@@ -303,8 +303,8 @@
                 ]
             }
         },
-        "Capítulo 13 - Sara Hong": {
-            "title": "",
+        "13": {
+            "title": "Capítulo 13 - Sara Hong",
             "last_updated": "1765713352",
             "groups": {
                 "": [
@@ -329,8 +329,8 @@
                 ]
             }
         },
-        "Capítulo 14 - Sara Hong 2": {
-            "title": "",
+        "14": {
+            "title": "Capítulo 14 - Sara Hong 2",
             "last_updated": "1765713430",
             "groups": {
                 "": [
@@ -356,8 +356,8 @@
                 ]
             }
         },
-        "Capítulo 15 - Kwak Hansol 2": {
-            "title": "",
+        "15": {
+            "title": "Capítulo 15 - Kwak Hansol 2",
             "last_updated": "1765713495",
             "groups": {
                 "": [
@@ -378,8 +378,8 @@
                 ]
             }
         },
-        "Capítulo 16 - Kwak Hansol 3": {
-            "title": "",
+        "16": {
+            "title": "Capítulo 16 - Kwak Hansol 3",
             "last_updated": "1765713576",
             "groups": {
                 "": [
@@ -403,8 +403,8 @@
                 ]
             }
         },
-        "Capítulo 17 - Kwak Hansol VS Kim Jaehyuk": {
-            "title": "",
+        "17": {
+            "title": "Capítulo 17 - Kwak Hansol VS Kim Jaehyuk",
             "last_updated": "1765713647",
             "groups": {
                 "": [
@@ -430,8 +430,8 @@
                 ]
             }
         },
-        "Capítulo 18 - Contra-Ataques": {
-            "title": "",
+        "18": {
+            "title": "Capítulo 18 - Contra-Ataques",
             "last_updated": "1765713697",
             "groups": {
                 "": [
@@ -456,8 +456,8 @@
                 ]
             }
         },
-        "Capítulo 19 - Adeus, minha amiga de bom coração": {
-            "title": "",
+        "19": {
+            "title": "Capítulo 19 - Adeus, minha amiga de bom coração",
             "last_updated": "1765713746",
             "groups": {
                 "": [
@@ -482,8 +482,8 @@
                 ]
             }
         },
-        "Capítulo 2 - Primeiro dia de aula": {
-            "title": "",
+        "2": {
+            "title": "Capítulo 2 - Primeiro dia de aula",
             "last_updated": "1765713842",
             "groups": {
                 "": [
@@ -525,8 +525,8 @@
                 ]
             }
         },
-        "Capítulo 20 - Baek Dasom": {
-            "title": "",
+        "20": {
+            "title": "Capítulo 20 - Baek Dasom",
             "last_updated": "1765713884",
             "groups": {
                 "": [
@@ -549,8 +549,8 @@
                 ]
             }
         },
-        "Capítulo 21 - Seo Doyun": {
-            "title": "",
+        "21": {
+            "title": "Capítulo 21 - Seo Doyun",
             "last_updated": "1765713923",
             "groups": {
                 "": [
@@ -572,8 +572,8 @@
                 ]
             }
         },
-        "Capítulo 22 - Seo Doyun 2": {
-            "title": "",
+        "22": {
+            "title": "Capítulo 22 - Seo Doyun 2",
             "last_updated": "1765713977",
             "groups": {
                 "": [
@@ -601,8 +601,8 @@
                 ]
             }
         },
-        "Capítulo 23 - Seo Doyun 3": {
-            "title": "",
+        "23": {
+            "title": "Capítulo 23 - Seo Doyun 3",
             "last_updated": "1765714044",
             "groups": {
                 "": [
@@ -627,8 +627,8 @@
                 ]
             }
         },
-        "Capítulo 24 - Treinamento Especial": {
-            "title": "",
+        "24": {
+            "title": "Capítulo 24 - Treinamento Especial",
             "last_updated": "1765714093",
             "groups": {
                 "": [
@@ -654,8 +654,8 @@
                 ]
             }
         },
-        "Capítulo 25 - Seo Doyun 4": {
-            "title": "",
+        "25": {
+            "title": "Capítulo 25 - Seo Doyun 4",
             "last_updated": "1765714134",
             "groups": {
                 "": [
@@ -677,8 +677,8 @@
                 ]
             }
         },
-        "Capítulo 26 - Seo Doyun VS": {
-            "title": "",
+        "26": {
+            "title": "Capítulo 26 - Seo Doyun VS",
             "last_updated": "1765714181",
             "groups": {
                 "": [
@@ -703,8 +703,8 @@
                 ]
             }
         },
-        "Capítulo 27 - Seo Doyun VS": {
-            "title": "",
+        "27": {
+            "title": "Capítulo 27 - Seo Doyun VS",
             "last_updated": "1765714226",
             "groups": {
                 "": [
@@ -727,8 +727,8 @@
                 ]
             }
         },
-        "Capítulo 28 - Seo Doyun VS": {
-            "title": "",
+        "28": {
+            "title": "Capítulo 28 - Seo Doyun VS",
             "last_updated": "1765714287",
             "groups": {
                 "": [
@@ -752,8 +752,8 @@
                 ]
             }
         },
-        "Capítulo 29 - Seo Doyun e Baek Dasom": {
-            "title": "",
+        "29": {
+            "title": "Capítulo 29 - Seo Doyun e Baek Dasom",
             "last_updated": "1765714340",
             "groups": {
                 "": [
@@ -779,8 +779,8 @@
                 ]
             }
         },
-        "Capítulo 3 - Preparação": {
-            "title": "",
+        "3": {
+            "title": "Capítulo 3 - Preparação",
             "last_updated": "1765714390",
             "groups": {
                 "": [
@@ -806,8 +806,8 @@
                 ]
             }
         },
-        "Capítulo 30 - Seo Doyun e Baek Dasom 2": {
-            "title": "",
+        "30": {
+            "title": "Capítulo 30 - Seo Doyun e Baek Dasom 2",
             "last_updated": "1765714426",
             "groups": {
                 "": [
@@ -829,8 +829,8 @@
                 ]
             }
         },
-        "Capítulo 31 - Seo Doyun e Baek Dasom 3": {
-            "title": "",
+        "31": {
+            "title": "Capítulo 31 - Seo Doyun e Baek Dasom 3",
             "last_updated": "1765714479",
             "groups": {
                 "": [
@@ -858,8 +858,8 @@
                 ]
             }
         },
-        "Capítulo 32 - Doyun VS": {
-            "title": "",
+        "32": {
+            "title": "Capítulo 32 - Doyun VS",
             "last_updated": "1765714520",
             "groups": {
                 "": [
@@ -884,8 +884,8 @@
                 ]
             }
         },
-        "Capítulo 33": {
-            "title": "",
+        "33": {
+            "title": "Capítulo 33",
             "last_updated": "1765714695",
             "groups": {
                 "": [
@@ -954,8 +954,8 @@
                 ]
             }
         },
-        "Capítulo 34 - Um Fim De Semana Com Minchae": {
-            "title": "",
+        "34": {
+            "title": "Capítulo 34 - Um Fim De Semana Com Minchae",
             "last_updated": "1765714760",
             "groups": {
                 "": [
@@ -979,8 +979,8 @@
                 ]
             }
         },
-        "Capítulo 35 - Um Final de Semana com Minchae 2": {
-            "title": "",
+        "35": {
+            "title": "Capítulo 35 - Um Final de Semana com Minchae 2",
             "last_updated": "1765714829",
             "groups": {
                 "": [
@@ -1005,8 +1005,8 @@
                 ]
             }
         },
-        "Capítulo 36 - Uma situação inesperada": {
-            "title": "",
+        "36": {
+            "title": "Capítulo 36 - Uma situação inesperada",
             "last_updated": "1765714897",
             "groups": {
                 "": [
@@ -1031,8 +1031,8 @@
                 ]
             }
         },
-        "Capítulo 4 - Confronto": {
-            "title": "",
+        "4": {
+            "title": "Capítulo 4 - Confronto",
             "last_updated": "1765714970",
             "groups": {
                 "": [
@@ -1061,8 +1061,8 @@
                 ]
             }
         },
-        "Capítulo 5 - O espírito de Luta do perdedor": {
-            "title": "",
+        "5": {
+            "title": "Capítulo 5 - O espírito de Luta do perdedor",
             "last_updated": "1765715056",
             "groups": {
                 "": [
@@ -1088,8 +1088,8 @@
                 ]
             }
         },
-        "Capítulo 6 - Após a Luta": {
-            "title": "",
+        "6": {
+            "title": "Capítulo 6 - Após a Luta",
             "last_updated": "1765715135",
             "groups": {
                 "": [
@@ -1117,8 +1117,8 @@
                 ]
             }
         },
-        "Capítulo 7 - Outro Vilão": {
-            "title": "",
+        "7": {
+            "title": "Capítulo 7 - Outro Vilão",
             "last_updated": "1765715200",
             "groups": {
                 "": [
@@ -1143,8 +1143,8 @@
                 ]
             }
         },
-        "Capítulo 8 - Posso Vencer Com Isso_": {
-            "title": "",
+        "8": {
+            "title": "Capítulo 8 - Posso Vencer Com Isso_",
             "last_updated": "1765715262",
             "groups": {
                 "": [
@@ -1168,8 +1168,8 @@
                 ]
             }
         },
-        "Capítulo 9 - Uma Reviravolta das Reviravoltas": {
-            "title": "",
+        "9": {
+            "title": "Capítulo 9 - Uma Reviravolta das Reviravoltas",
             "last_updated": "1765715352",
             "groups": {
                 "": [
@@ -1196,5 +1196,4 @@
             }
         }
     }
-
 }
