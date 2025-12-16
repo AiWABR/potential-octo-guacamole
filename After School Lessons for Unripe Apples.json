@@ -1,9 +1,9 @@
 {
     "title": "After School Lessons for Unripe Apples",
-    "description": "",
-    "artist": "",
-    "author": "",
-    "cover": "",
+    "description": "Em seu último ano do ensino médio, Hwang Mi-Ae está presa a Kim Cheol, um garoto que ela conheceu brevemente anos atrás - ele é seu colega de classe... e seu vizinho. Agora as outras crianças continuam chamando-os de casal! Em uma onda de inquietação, Cheol começa a evitar Mi-Ae como se fosse uma praga. Mas as coisas não param por aí. O destino não os deixará em paz, pois Kim Cheol e Hwang Mi-ae continuam se vendo em todos os lugares... causando ainda mais problemas.",
+    "artist": "Soon-Ki",
+    "author": "Soon-Ki",
+    "cover": "https://cdn.myanimelist.net/images/manga/1/261508.jpg",
     "chapters": {
         "001": {
             "title": "001",
@@ -5272,8 +5272,8 @@
                 ]
             }
         },
-        "Special-065": {
-            "title": "Special-065",
+        "065.1": {
+            "title": "065.1",
             "last_updated": "1765907981",
             "groups": {
                 "": [
