@@ -1,0 +1,809 @@
+{
+    "title": "The Ultimate Shut-In",
+    "description": "Um dia, o fim do mundo chegou repentinamente. O Recluso Supremo não pode sair de casa. Para salvar minha família, devo sobreviver custe o que custar.",
+    "artist": "Bihyeon",
+    "author": "Maeng Ju Gyeong",
+    "cover": "https://files.catbox.moe/5c9pvi.jpg",
+    "chapters": {
+        "001": {
+            "title": "001",
+            "last_updated": "1766028212",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/7xg3jk.avif",
+                    "https://files.catbox.moe/qmun2f.avif",
+                    "https://files.catbox.moe/xm7oxu.avif",
+                    "https://files.catbox.moe/6efk3b.avif",
+                    "https://files.catbox.moe/e3sxs1.avif",
+                    "https://files.catbox.moe/0n31r4.avif",
+                    "https://files.catbox.moe/abtbfl.avif",
+                    "https://files.catbox.moe/d6x3xl.avif",
+                    "https://files.catbox.moe/o38h5v.avif",
+                    "https://files.catbox.moe/xlynzb.avif",
+                    "https://files.catbox.moe/gqpj4c.avif",
+                    "https://files.catbox.moe/osauvf.avif",
+                    "https://files.catbox.moe/d58lqu.avif",
+                    "https://files.catbox.moe/la6rhm.avif",
+                    "https://files.catbox.moe/eg63r4.avif",
+                    "https://files.catbox.moe/kztelu.avif"
+                ]
+            }
+        },
+        "002": {
+            "title": "002",
+            "last_updated": "1766028213",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/uyw2j4.avif",
+                    "https://files.catbox.moe/irutic.avif",
+                    "https://files.catbox.moe/qxc3j3.avif",
+                    "https://files.catbox.moe/qwx9ra.avif",
+                    "https://files.catbox.moe/mh7y9r.avif",
+                    "https://files.catbox.moe/cn9u93.avif",
+                    "https://files.catbox.moe/h85n4b.avif",
+                    "https://files.catbox.moe/pokezg.avif",
+                    "https://files.catbox.moe/mm0eje.avif",
+                    "https://files.catbox.moe/io3u4h.avif",
+                    "https://files.catbox.moe/wsbbkj.avif",
+                    "https://files.catbox.moe/sxe0ii.avif",
+                    "https://files.catbox.moe/k26d3k.avif",
+                    "https://files.catbox.moe/x8a5mf.avif",
+                    "https://files.catbox.moe/4wxc1j.avif",
+                    "https://files.catbox.moe/vq2oqg.avif",
+                    "https://files.catbox.moe/eokurq.avif",
+                    "https://files.catbox.moe/rl4hc7.avif"
+                ]
+            }
+        },
+        "003": {
+            "title": "003",
+            "last_updated": "1766028213",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/ux67a6.avif",
+                    "https://files.catbox.moe/soxfcb.avif",
+                    "https://files.catbox.moe/n6k1h1.avif",
+                    "https://files.catbox.moe/xq807t.avif",
+                    "https://files.catbox.moe/xrpwhf.avif",
+                    "https://files.catbox.moe/2h7faf.avif",
+                    "https://files.catbox.moe/vkwq8x.avif",
+                    "https://files.catbox.moe/kt3j71.avif",
+                    "https://files.catbox.moe/lxmfnk.avif",
+                    "https://files.catbox.moe/57418u.avif",
+                    "https://files.catbox.moe/mthjn6.avif",
+                    "https://files.catbox.moe/7tr6ar.avif",
+                    "https://files.catbox.moe/5hyqfe.avif",
+                    "https://files.catbox.moe/bbjoiz.avif",
+                    "https://files.catbox.moe/rdmim8.avif",
+                    "https://files.catbox.moe/28cnvv.avif"
+                ]
+            }
+        },
+        "004": {
+            "title": "004",
+            "last_updated": "1766028213",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/dt3l57.avif",
+                    "https://files.catbox.moe/26o5uf.avif",
+                    "https://files.catbox.moe/6dm6eq.avif",
+                    "https://files.catbox.moe/4mm3cd.avif",
+                    "https://files.catbox.moe/vw9793.avif",
+                    "https://files.catbox.moe/4j24zq.avif",
+                    "https://files.catbox.moe/3jwipm.avif",
+                    "https://files.catbox.moe/vi6q0s.avif",
+                    "https://files.catbox.moe/vkfvlo.avif",
+                    "https://files.catbox.moe/9od724.avif",
+                    "https://files.catbox.moe/ty8qky.avif",
+                    "https://files.catbox.moe/d33m5i.avif",
+                    "https://files.catbox.moe/mth3wp.avif",
+                    "https://files.catbox.moe/bkvvui.avif",
+                    "https://files.catbox.moe/4hzkb3.avif",
+                    "https://files.catbox.moe/2h6txa.avif",
+                    "https://files.catbox.moe/u4ej7o.avif",
+                    "https://files.catbox.moe/l9bdcx.avif",
+                    "https://files.catbox.moe/4wd3pu.avif",
+                    "https://files.catbox.moe/36ul6w.avif",
+                    "https://files.catbox.moe/wieqmc.avif"
+                ]
+            }
+        },
+        "005": {
+            "title": "005",
+            "last_updated": "1766028213",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/6d6c26.avif",
+                    "https://files.catbox.moe/fpjf6e.avif",
+                    "https://files.catbox.moe/vi8mdy.avif",
+                    "https://files.catbox.moe/pggu20.avif",
+                    "https://files.catbox.moe/iw3po3.avif",
+                    "https://files.catbox.moe/3paarf.avif",
+                    "https://files.catbox.moe/0hix91.avif",
+                    "https://files.catbox.moe/dbb6i3.avif",
+                    "https://files.catbox.moe/qymqwf.avif",
+                    "https://files.catbox.moe/kze0sy.avif",
+                    "https://files.catbox.moe/387qqo.avif",
+                    "https://files.catbox.moe/bjcav0.avif"
+                ]
+            }
+        },
+        "006": {
+            "title": "006",
+            "last_updated": "1766028213",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/suzpzb.avif",
+                    "https://files.catbox.moe/ne8qtg.avif",
+                    "https://files.catbox.moe/anm2ta.avif",
+                    "https://files.catbox.moe/folvnk.avif",
+                    "https://files.catbox.moe/nksmjn.avif",
+                    "https://files.catbox.moe/idfio5.avif",
+                    "https://files.catbox.moe/docxbk.avif",
+                    "https://files.catbox.moe/cmzbtw.avif",
+                    "https://files.catbox.moe/n0syi9.avif",
+                    "https://files.catbox.moe/9bc6sq.avif",
+                    "https://files.catbox.moe/kwsf4l.avif",
+                    "https://files.catbox.moe/889t92.avif",
+                    "https://files.catbox.moe/og9tss.avif",
+                    "https://files.catbox.moe/sjpbuv.avif",
+                    "https://files.catbox.moe/5vdqub.avif"
+                ]
+            }
+        },
+        "007": {
+            "title": "007",
+            "last_updated": "1766028213",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/g0sbpo.avif",
+                    "https://files.catbox.moe/ksi0tm.avif",
+                    "https://files.catbox.moe/bu53cd.avif",
+                    "https://files.catbox.moe/oona52.avif",
+                    "https://files.catbox.moe/a322vd.avif",
+                    "https://files.catbox.moe/b2tgox.avif",
+                    "https://files.catbox.moe/1mkanz.avif",
+                    "https://files.catbox.moe/l36rhc.avif",
+                    "https://files.catbox.moe/ptpvyl.avif",
+                    "https://files.catbox.moe/frf7q3.avif",
+                    "https://files.catbox.moe/j8fuge.avif",
+                    "https://files.catbox.moe/hzojzo.avif",
+                    "https://files.catbox.moe/04z2js.avif",
+                    "https://files.catbox.moe/84pse9.avif",
+                    "https://files.catbox.moe/eud3pw.avif",
+                    "https://files.catbox.moe/mkdhig.avif",
+                    "https://files.catbox.moe/3isq83.avif",
+                    "https://files.catbox.moe/pmksfu.avif",
+                    "https://files.catbox.moe/u8ofno.avif"
+                ]
+            }
+        },
+        "008": {
+            "title": "008",
+            "last_updated": "1766028213",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/tdn4uh.avif",
+                    "https://files.catbox.moe/9zfqn6.avif",
+                    "https://files.catbox.moe/2tojof.avif",
+                    "https://files.catbox.moe/rv13lj.avif",
+                    "https://files.catbox.moe/h4whf9.avif",
+                    "https://files.catbox.moe/aplbdk.avif",
+                    "https://files.catbox.moe/eusj41.avif",
+                    "https://files.catbox.moe/fsa4s2.avif",
+                    "https://files.catbox.moe/ppz2w2.avif",
+                    "https://files.catbox.moe/ucyono.avif",
+                    "https://files.catbox.moe/e3ibyz.avif",
+                    "https://files.catbox.moe/1xepcr.avif",
+                    "https://files.catbox.moe/payraz.avif",
+                    "https://files.catbox.moe/9k5rs9.avif"
+                ]
+            }
+        },
+        "009": {
+            "title": "009",
+            "last_updated": "1766028213",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/4f68sp.avif",
+                    "https://files.catbox.moe/3im7ek.avif",
+                    "https://files.catbox.moe/al82j2.avif",
+                    "https://files.catbox.moe/f16a2r.avif",
+                    "https://files.catbox.moe/kdbmfe.avif",
+                    "https://files.catbox.moe/3rrat3.avif",
+                    "https://files.catbox.moe/btkdmt.avif",
+                    "https://files.catbox.moe/pus5fl.avif",
+                    "https://files.catbox.moe/2xpx9u.avif",
+                    "https://files.catbox.moe/bb3own.avif",
+                    "https://files.catbox.moe/ug0av1.avif",
+                    "https://files.catbox.moe/dz2yc6.avif",
+                    "https://files.catbox.moe/q20abs.avif",
+                    "https://files.catbox.moe/x863sz.avif"
+                ]
+            }
+        },
+        "010": {
+            "title": "010",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/ltccx2.avif",
+                    "https://files.catbox.moe/tshmo0.avif",
+                    "https://files.catbox.moe/3mtz9a.avif",
+                    "https://files.catbox.moe/3piqra.avif",
+                    "https://files.catbox.moe/0gxn88.avif",
+                    "https://files.catbox.moe/vpq9so.avif",
+                    "https://files.catbox.moe/71jk4r.avif",
+                    "https://files.catbox.moe/eqeguw.avif",
+                    "https://files.catbox.moe/kswym4.avif",
+                    "https://files.catbox.moe/zq4mj1.avif",
+                    "https://files.catbox.moe/jojc5w.avif",
+                    "https://files.catbox.moe/n6dw6e.avif",
+                    "https://files.catbox.moe/ug6w21.avif",
+                    "https://files.catbox.moe/ibcm6t.avif",
+                    "https://files.catbox.moe/bm77t4.avif",
+                    "https://files.catbox.moe/7r6ztd.avif",
+                    "https://files.catbox.moe/9dh4pc.avif",
+                    "https://files.catbox.moe/4wklsx.avif",
+                    "https://files.catbox.moe/n6g9p8.avif",
+                    "https://files.catbox.moe/ib1v8r.avif"
+                ]
+            }
+        },
+        "011": {
+            "title": "011",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/se418w.avif",
+                    "https://files.catbox.moe/tzhk9v.avif",
+                    "https://files.catbox.moe/c88o87.avif",
+                    "https://files.catbox.moe/tulgtc.avif",
+                    "https://files.catbox.moe/t4qmay.avif",
+                    "https://files.catbox.moe/paopsg.avif",
+                    "https://files.catbox.moe/rn6qd0.avif",
+                    "https://files.catbox.moe/2s1mrn.avif",
+                    "https://files.catbox.moe/7eonii.avif",
+                    "https://files.catbox.moe/trxqse.avif",
+                    "https://files.catbox.moe/eg7uze.avif",
+                    "https://files.catbox.moe/viwux5.avif",
+                    "https://files.catbox.moe/ojioch.avif",
+                    "https://files.catbox.moe/nr8aid.avif",
+                    "https://files.catbox.moe/ny9404.avif",
+                    "https://files.catbox.moe/0lzdnr.avif",
+                    "https://files.catbox.moe/xzsarv.avif"
+                ]
+            }
+        },
+        "012": {
+            "title": "012",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/cu0tdg.avif",
+                    "https://files.catbox.moe/3wfyde.avif",
+                    "https://files.catbox.moe/gj925b.avif",
+                    "https://files.catbox.moe/4yswu0.avif",
+                    "https://files.catbox.moe/1bq7sl.avif",
+                    "https://files.catbox.moe/hzhokq.avif",
+                    "https://files.catbox.moe/r6nnfp.avif",
+                    "https://files.catbox.moe/f0qmw1.avif",
+                    "https://files.catbox.moe/u9iipx.avif",
+                    "https://files.catbox.moe/ln2o1g.avif",
+                    "https://files.catbox.moe/jqjzkv.avif",
+                    "https://files.catbox.moe/l2c8az.avif",
+                    "https://files.catbox.moe/bo9inf.avif",
+                    "https://files.catbox.moe/e1bjnd.avif",
+                    "https://files.catbox.moe/t5kxqg.avif",
+                    "https://files.catbox.moe/8t4awy.avif",
+                    "https://files.catbox.moe/uqy8mk.avif",
+                    "https://files.catbox.moe/ewnpde.avif",
+                    "https://files.catbox.moe/v4fjox.avif",
+                    "https://files.catbox.moe/ov1r42.avif",
+                    "https://files.catbox.moe/6nzs09.avif"
+                ]
+            }
+        },
+        "013": {
+            "title": "013",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/zt14xn.avif",
+                    "https://files.catbox.moe/szng01.avif",
+                    "https://files.catbox.moe/w8k5h1.avif",
+                    "https://files.catbox.moe/i6bcrm.avif",
+                    "https://files.catbox.moe/stqnsf.avif",
+                    "https://files.catbox.moe/j5cr8r.avif",
+                    "https://files.catbox.moe/xhez12.avif",
+                    "https://files.catbox.moe/06xuwv.avif",
+                    "https://files.catbox.moe/kelr5n.avif",
+                    "https://files.catbox.moe/860cx4.avif",
+                    "https://files.catbox.moe/d76tca.avif",
+                    "https://files.catbox.moe/xhir1l.avif",
+                    "https://files.catbox.moe/msjq0w.avif",
+                    "https://files.catbox.moe/apq6kz.avif",
+                    "https://files.catbox.moe/btjvri.avif",
+                    "https://files.catbox.moe/gppb6o.avif"
+                ]
+            }
+        },
+        "014": {
+            "title": "014",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/9glvqn.avif",
+                    "https://files.catbox.moe/hatiwj.avif",
+                    "https://files.catbox.moe/g8ow1n.avif",
+                    "https://files.catbox.moe/c3hok1.avif",
+                    "https://files.catbox.moe/q7bsxv.avif",
+                    "https://files.catbox.moe/fbmegs.avif",
+                    "https://files.catbox.moe/zv48yo.avif",
+                    "https://files.catbox.moe/mq84zz.avif",
+                    "https://files.catbox.moe/b7vmey.avif",
+                    "https://files.catbox.moe/oqx2ew.avif",
+                    "https://files.catbox.moe/93opys.avif",
+                    "https://files.catbox.moe/w0vwrt.avif",
+                    "https://files.catbox.moe/54y0pd.avif",
+                    "https://files.catbox.moe/bu7ayf.avif",
+                    "https://files.catbox.moe/qlr4pk.avif",
+                    "https://files.catbox.moe/i17bz4.avif",
+                    "https://files.catbox.moe/chdnao.avif",
+                    "https://files.catbox.moe/eoxm55.avif",
+                    "https://files.catbox.moe/b4l058.avif",
+                    "https://files.catbox.moe/ypqvq4.avif",
+                    "https://files.catbox.moe/ne1blp.avif",
+                    "https://files.catbox.moe/ptk9lt.avif"
+                ]
+            }
+        },
+        "015": {
+            "title": "015",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/slh3f3.avif",
+                    "https://files.catbox.moe/eeid5f.avif",
+                    "https://files.catbox.moe/l5p1px.avif",
+                    "https://files.catbox.moe/rjq4y3.avif",
+                    "https://files.catbox.moe/k6n21n.avif",
+                    "https://files.catbox.moe/82b0wm.avif",
+                    "https://files.catbox.moe/qwmzm7.avif",
+                    "https://files.catbox.moe/dbrqia.avif",
+                    "https://files.catbox.moe/afx6ba.avif",
+                    "https://files.catbox.moe/05nvpk.avif",
+                    "https://files.catbox.moe/dz6wgm.avif",
+                    "https://files.catbox.moe/lsxkcp.avif",
+                    "https://files.catbox.moe/it7sj5.avif",
+                    "https://files.catbox.moe/p2iwwr.avif",
+                    "https://files.catbox.moe/l97k1k.avif",
+                    "https://files.catbox.moe/0lwbgz.avif",
+                    "https://files.catbox.moe/75gtgh.avif",
+                    "https://files.catbox.moe/o6n2zc.avif",
+                    "https://files.catbox.moe/6zd9s6.avif",
+                    "https://files.catbox.moe/4qb4zn.avif",
+                    "https://files.catbox.moe/51frd4.avif",
+                    "https://files.catbox.moe/bfve7o.avif",
+                    "https://files.catbox.moe/plnn33.avif",
+                    "https://files.catbox.moe/4s03nv.avif"
+                ]
+            }
+        },
+        "016": {
+            "title": "016",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/qgvyt0.avif",
+                    "https://files.catbox.moe/khe39f.avif",
+                    "https://files.catbox.moe/hloykj.avif",
+                    "https://files.catbox.moe/1bj3jj.avif",
+                    "https://files.catbox.moe/2wqres.avif",
+                    "https://files.catbox.moe/3v0v1q.avif",
+                    "https://files.catbox.moe/6k2np2.avif",
+                    "https://files.catbox.moe/tl455v.avif",
+                    "https://files.catbox.moe/s6htqk.avif",
+                    "https://files.catbox.moe/gzui2z.avif",
+                    "https://files.catbox.moe/zjuf2c.avif",
+                    "https://files.catbox.moe/bdif88.avif",
+                    "https://files.catbox.moe/ylk1gp.avif"
+                ]
+            }
+        },
+        "017": {
+            "title": "017",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/vfqj6u.avif",
+                    "https://files.catbox.moe/40wq6n.avif",
+                    "https://files.catbox.moe/6oo0d6.avif",
+                    "https://files.catbox.moe/f0302j.avif",
+                    "https://files.catbox.moe/iodccs.avif",
+                    "https://files.catbox.moe/2nb9ff.avif",
+                    "https://files.catbox.moe/a2ciyr.avif",
+                    "https://files.catbox.moe/ezn2jw.avif",
+                    "https://files.catbox.moe/zp97t7.avif",
+                    "https://files.catbox.moe/9zf73b.avif",
+                    "https://files.catbox.moe/3g0w2f.avif",
+                    "https://files.catbox.moe/lsd7u3.avif",
+                    "https://files.catbox.moe/dcxggb.avif",
+                    "https://files.catbox.moe/1ir9de.avif",
+                    "https://files.catbox.moe/37owsi.avif",
+                    "https://files.catbox.moe/9ddu7l.avif",
+                    "https://files.catbox.moe/bbm9ru.avif",
+                    "https://files.catbox.moe/46nivf.avif",
+                    "https://files.catbox.moe/3itxt4.avif",
+                    "https://files.catbox.moe/41gqtz.avif",
+                    "https://files.catbox.moe/dzp9ba.avif"
+                ]
+            }
+        },
+        "018": {
+            "title": "018",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/mdx40r.avif",
+                    "https://files.catbox.moe/6z22i1.avif",
+                    "https://files.catbox.moe/ujvyj3.avif",
+                    "https://files.catbox.moe/h7kdtc.avif",
+                    "https://files.catbox.moe/r53lf7.avif",
+                    "https://files.catbox.moe/rcm1wr.avif",
+                    "https://files.catbox.moe/c8futs.avif",
+                    "https://files.catbox.moe/vzxy7g.avif",
+                    "https://files.catbox.moe/ctkxk8.avif",
+                    "https://files.catbox.moe/b0toao.avif",
+                    "https://files.catbox.moe/ui9tis.avif",
+                    "https://files.catbox.moe/tl6s8p.avif",
+                    "https://files.catbox.moe/v8gffl.avif",
+                    "https://files.catbox.moe/dfe5iq.avif",
+                    "https://files.catbox.moe/rl4ia2.avif",
+                    "https://files.catbox.moe/hm2nkn.avif"
+                ]
+            }
+        },
+        "019": {
+            "title": "019",
+            "last_updated": "1766028214",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/l9xquc.avif",
+                    "https://files.catbox.moe/06up4s.avif",
+                    "https://files.catbox.moe/ld71i7.avif",
+                    "https://files.catbox.moe/ev906i.avif",
+                    "https://files.catbox.moe/w5xy2g.avif",
+                    "https://files.catbox.moe/tyjzn6.avif",
+                    "https://files.catbox.moe/leorv9.avif",
+                    "https://files.catbox.moe/apjd02.avif",
+                    "https://files.catbox.moe/5hx4wj.avif",
+                    "https://files.catbox.moe/dmpbih.avif",
+                    "https://files.catbox.moe/8zmsyj.avif",
+                    "https://files.catbox.moe/vxr8ys.avif",
+                    "https://files.catbox.moe/nkyjrs.avif",
+                    "https://files.catbox.moe/kxpbiu.avif",
+                    "https://files.catbox.moe/ububy1.avif",
+                    "https://files.catbox.moe/w8uihd.avif",
+                    "https://files.catbox.moe/tncrgp.avif",
+                    "https://files.catbox.moe/1ji52t.avif",
+                    "https://files.catbox.moe/a2h4rm.avif"
+                ]
+            }
+        },
+        "020": {
+            "title": "020",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/s8n1fk.avif",
+                    "https://files.catbox.moe/btkg0c.avif",
+                    "https://files.catbox.moe/0od6k5.avif",
+                    "https://files.catbox.moe/rkdqvk.avif",
+                    "https://files.catbox.moe/bjgniw.avif",
+                    "https://files.catbox.moe/rh6lem.avif",
+                    "https://files.catbox.moe/361t3g.avif",
+                    "https://files.catbox.moe/rqe027.avif",
+                    "https://files.catbox.moe/jlsktr.avif",
+                    "https://files.catbox.moe/a0vshc.avif",
+                    "https://files.catbox.moe/pags1n.avif",
+                    "https://files.catbox.moe/gauzkh.avif",
+                    "https://files.catbox.moe/p44dou.avif",
+                    "https://files.catbox.moe/qg3ee1.avif",
+                    "https://files.catbox.moe/izrirr.avif",
+                    "https://files.catbox.moe/2ckeyq.avif",
+                    "https://files.catbox.moe/a4zmw7.avif"
+                ]
+            }
+        },
+        "021": {
+            "title": "021",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/7qhbl0.avif",
+                    "https://files.catbox.moe/6ui4vh.avif",
+                    "https://files.catbox.moe/fi3cgy.avif",
+                    "https://files.catbox.moe/c2leqx.avif",
+                    "https://files.catbox.moe/exgy58.avif",
+                    "https://files.catbox.moe/u8bsbw.avif",
+                    "https://files.catbox.moe/t36q6p.avif",
+                    "https://files.catbox.moe/cfwee6.avif",
+                    "https://files.catbox.moe/28081q.avif",
+                    "https://files.catbox.moe/gwpzeg.avif",
+                    "https://files.catbox.moe/h8hfft.avif",
+                    "https://files.catbox.moe/zwq81y.avif",
+                    "https://files.catbox.moe/37vlt3.avif",
+                    "https://files.catbox.moe/8xasqw.avif"
+                ]
+            }
+        },
+        "022": {
+            "title": "022",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/kutnke.avif",
+                    "https://files.catbox.moe/l6fr8q.avif",
+                    "https://files.catbox.moe/sjp7u3.avif",
+                    "https://files.catbox.moe/di7d2g.avif",
+                    "https://files.catbox.moe/4n2l5j.avif",
+                    "https://files.catbox.moe/7gxcid.avif",
+                    "https://files.catbox.moe/7ijny4.avif",
+                    "https://files.catbox.moe/tp05iv.avif",
+                    "https://files.catbox.moe/i0qjk9.avif",
+                    "https://files.catbox.moe/fy3cjm.avif",
+                    "https://files.catbox.moe/hl1amt.avif",
+                    "https://files.catbox.moe/w43se8.avif",
+                    "https://files.catbox.moe/2dukvm.avif",
+                    "https://files.catbox.moe/si2nv3.avif",
+                    "https://files.catbox.moe/2dwsen.avif",
+                    "https://files.catbox.moe/a2ewpf.avif",
+                    "https://files.catbox.moe/3l1cz4.avif",
+                    "https://files.catbox.moe/96hjht.avif",
+                    "https://files.catbox.moe/6tzxmy.avif"
+                ]
+            }
+        },
+        "023": {
+            "title": "023",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/jcvh0k.avif",
+                    "https://files.catbox.moe/apsao7.avif",
+                    "https://files.catbox.moe/wdqvg2.avif",
+                    "https://files.catbox.moe/xnxgce.avif",
+                    "https://files.catbox.moe/d63rkj.avif",
+                    "https://files.catbox.moe/5g750u.avif",
+                    "https://files.catbox.moe/30mapq.avif",
+                    "https://files.catbox.moe/jf6mjc.avif",
+                    "https://files.catbox.moe/0yabhe.avif",
+                    "https://files.catbox.moe/0gj7tu.avif",
+                    "https://files.catbox.moe/s9qa88.avif",
+                    "https://files.catbox.moe/qid2gr.avif",
+                    "https://files.catbox.moe/vflr0m.avif",
+                    "https://files.catbox.moe/q29b5k.avif",
+                    "https://files.catbox.moe/tge5s4.avif",
+                    "https://files.catbox.moe/2sv9wa.avif",
+                    "https://files.catbox.moe/fh20bk.avif",
+                    "https://files.catbox.moe/wjwtsg.avif",
+                    "https://files.catbox.moe/k7iris.avif"
+                ]
+            }
+        },
+        "024": {
+            "title": "024",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/fvw38g.avif",
+                    "https://files.catbox.moe/akeu4q.avif",
+                    "https://files.catbox.moe/3a01dr.avif",
+                    "https://files.catbox.moe/fk2isc.avif",
+                    "https://files.catbox.moe/fsoct2.avif",
+                    "https://files.catbox.moe/7yt5o2.avif",
+                    "https://files.catbox.moe/7ztern.avif",
+                    "https://files.catbox.moe/vgeg4q.avif",
+                    "https://files.catbox.moe/a2dgsy.avif",
+                    "https://files.catbox.moe/tzf5zf.avif",
+                    "https://files.catbox.moe/x2lzdb.avif",
+                    "https://files.catbox.moe/k0oqmh.avif",
+                    "https://files.catbox.moe/4g8a76.avif",
+                    "https://files.catbox.moe/3566et.avif",
+                    "https://files.catbox.moe/v6usbg.avif",
+                    "https://files.catbox.moe/g36672.avif",
+                    "https://files.catbox.moe/8qbm8m.avif",
+                    "https://files.catbox.moe/into04.avif",
+                    "https://files.catbox.moe/5v12p2.avif",
+                    "https://files.catbox.moe/hzcp0q.avif",
+                    "https://files.catbox.moe/r3pg68.avif"
+                ]
+            }
+        },
+        "025": {
+            "title": "025",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/ju7m1g.avif",
+                    "https://files.catbox.moe/zzxc59.avif",
+                    "https://files.catbox.moe/v8s0y6.avif",
+                    "https://files.catbox.moe/ewbwxe.avif",
+                    "https://files.catbox.moe/68g1ba.avif",
+                    "https://files.catbox.moe/ql6t46.avif",
+                    "https://files.catbox.moe/rrz6gh.avif",
+                    "https://files.catbox.moe/4zxfei.avif",
+                    "https://files.catbox.moe/smjjjj.avif",
+                    "https://files.catbox.moe/0o5a1f.avif",
+                    "https://files.catbox.moe/hirrtz.avif",
+                    "https://files.catbox.moe/flyo0q.avif",
+                    "https://files.catbox.moe/ils6oq.avif",
+                    "https://files.catbox.moe/earre4.avif",
+                    "https://files.catbox.moe/07tehg.avif",
+                    "https://files.catbox.moe/quph0z.avif",
+                    "https://files.catbox.moe/h2ru12.avif",
+                    "https://files.catbox.moe/35ftf3.avif",
+                    "https://files.catbox.moe/il2ub9.avif"
+                ]
+            }
+        },
+        "026": {
+            "title": "026",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/eltl0c.avif",
+                    "https://files.catbox.moe/hm1ndk.avif",
+                    "https://files.catbox.moe/gars25.avif",
+                    "https://files.catbox.moe/5c2q9n.avif",
+                    "https://files.catbox.moe/2s1239.avif",
+                    "https://files.catbox.moe/sdg67r.avif",
+                    "https://files.catbox.moe/ip1n90.avif",
+                    "https://files.catbox.moe/75gb9m.avif",
+                    "https://files.catbox.moe/hezs10.avif",
+                    "https://files.catbox.moe/neepdt.avif",
+                    "https://files.catbox.moe/eoy298.avif",
+                    "https://files.catbox.moe/iiaoae.avif",
+                    "https://files.catbox.moe/3ctabw.avif",
+                    "https://files.catbox.moe/6ezj4m.avif",
+                    "https://files.catbox.moe/wnigdr.avif",
+                    "https://files.catbox.moe/drfs0g.avif"
+                ]
+            }
+        },
+        "027": {
+            "title": "027",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/gz9tg6.avif",
+                    "https://files.catbox.moe/30aqwu.avif",
+                    "https://files.catbox.moe/dm4ckt.avif",
+                    "https://files.catbox.moe/k34jj7.avif",
+                    "https://files.catbox.moe/2kl751.avif",
+                    "https://files.catbox.moe/fwnppi.avif",
+                    "https://files.catbox.moe/2ktzna.avif",
+                    "https://files.catbox.moe/ag1saw.avif",
+                    "https://files.catbox.moe/gny6hz.avif",
+                    "https://files.catbox.moe/i464gb.avif",
+                    "https://files.catbox.moe/ju3dnp.avif",
+                    "https://files.catbox.moe/d5sarj.avif",
+                    "https://files.catbox.moe/740j0l.avif",
+                    "https://files.catbox.moe/nf9jw1.avif",
+                    "https://files.catbox.moe/gn73to.avif",
+                    "https://files.catbox.moe/m7vnvl.avif",
+                    "https://files.catbox.moe/i9p9ef.avif"
+                ]
+            }
+        },
+        "028": {
+            "title": "028",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/reo48h.avif",
+                    "https://files.catbox.moe/ersrzy.avif",
+                    "https://files.catbox.moe/14nm8f.avif",
+                    "https://files.catbox.moe/lgndzw.avif",
+                    "https://files.catbox.moe/6xy289.avif",
+                    "https://files.catbox.moe/92t7fp.avif",
+                    "https://files.catbox.moe/a05tva.avif",
+                    "https://files.catbox.moe/7hly0t.avif",
+                    "https://files.catbox.moe/9bzd2l.avif",
+                    "https://files.catbox.moe/swul8n.avif",
+                    "https://files.catbox.moe/wf2wsm.avif",
+                    "https://files.catbox.moe/k2mgl5.avif",
+                    "https://files.catbox.moe/om6d4f.avif",
+                    "https://files.catbox.moe/zruytb.avif",
+                    "https://files.catbox.moe/3wudj7.avif",
+                    "https://files.catbox.moe/y2t3fy.avif",
+                    "https://files.catbox.moe/d0ql8u.avif",
+                    "https://files.catbox.moe/2fy539.avif",
+                    "https://files.catbox.moe/pwzpxv.avif",
+                    "https://files.catbox.moe/6t9mko.avif",
+                    "https://files.catbox.moe/eojdm0.avif",
+                    "https://files.catbox.moe/v5xjoa.avif",
+                    "https://files.catbox.moe/9h83qw.avif",
+                    "https://files.catbox.moe/jpxs1f.avif"
+                ]
+            }
+        },
+        "029": {
+            "title": "029",
+            "last_updated": "1766028215",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/0q8h5a.avif",
+                    "https://files.catbox.moe/rsk18x.avif",
+                    "https://files.catbox.moe/ztje1y.avif",
+                    "https://files.catbox.moe/ppo842.avif",
+                    "https://files.catbox.moe/9nctrc.avif",
+                    "https://files.catbox.moe/j4srpa.avif",
+                    "https://files.catbox.moe/vpowyp.avif",
+                    "https://files.catbox.moe/sn66h2.avif",
+                    "https://files.catbox.moe/zkzv9d.avif",
+                    "https://files.catbox.moe/mtubd8.avif",
+                    "https://files.catbox.moe/x2h78h.avif",
+                    "https://files.catbox.moe/z2l9o5.avif",
+                    "https://files.catbox.moe/g2l1s1.avif",
+                    "https://files.catbox.moe/0q8spx.avif",
+                    "https://files.catbox.moe/60tpnm.avif",
+                    "https://files.catbox.moe/4t5uey.avif",
+                    "https://files.catbox.moe/2avt5q.avif",
+                    "https://files.catbox.moe/74frav.avif",
+                    "https://files.catbox.moe/hc6has.avif",
+                    "https://files.catbox.moe/5b9b90.avif",
+                    "https://files.catbox.moe/ja1czm.avif",
+                    "https://files.catbox.moe/5iby7c.avif",
+                    "https://files.catbox.moe/mhx11w.avif"
+                ]
+            }
+        },
+        "Capítulo 01": {
+            "title": "Capítulo 01",
+            "last_updated": "1766004479",
+            "groups": {
+                "": [
+                    "https://files.catbox.moe/el224c.avif",
+                    "https://files.catbox.moe/7xg3jk.avif",
+                    "https://files.catbox.moe/qmun2f.avif",
+                    "https://files.catbox.moe/xm7oxu.avif",
+                    "https://files.catbox.moe/6efk3b.avif",
+                    "https://files.catbox.moe/e3sxs1.avif",
+                    "https://files.catbox.moe/0n31r4.avif",
+                    "https://files.catbox.moe/abtbfl.avif",
+                    "https://files.catbox.moe/d6x3xl.avif",
+                    "https://files.catbox.moe/o38h5v.avif",
+                    "https://files.catbox.moe/xlynzb.avif",
+                    "https://files.catbox.moe/gqpj4c.avif",
+                    "https://files.catbox.moe/osauvf.avif",
+                    "https://files.catbox.moe/d58lqu.avif",
+                    "https://files.catbox.moe/la6rhm.avif",
+                    "https://files.catbox.moe/eg63r4.avif",
+                    "https://files.catbox.moe/kztelu.avif"
+                ]
+            }
+        }
+    }
+}
