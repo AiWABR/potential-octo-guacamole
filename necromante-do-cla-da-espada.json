@@ -5,10 +5,10 @@
   "artist": "Unknown Artist",
   "cover": "https://cdn.monstercomics.com.br/obras/necromante-do-cla-da-espada/94ba09c5d71f6154cae95faca679cb9800064b42.webp",
   "chapters": {
-    "001": {
-      "title": "CAPÍTULO 0",
+    "000": {
+      "title": "Capítulo 000",
       "volume": "1",
-      "last_updated": 1786125575,
+      "last_updated": 1786126834,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/0",
       "groups": {
         "default": [
@@ -35,10 +35,10 @@
         ]
       }
     },
-    "002": {
-      "title": "CAPÍTULO 1",
+    "001": {
+      "title": "Capítulo 001",
       "volume": "1",
-      "last_updated": 1786125522,
+      "last_updated": 1786126836,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/1",
       "groups": {
         "default": [
@@ -62,10 +62,10 @@
         ]
       }
     },
-    "003": {
-      "title": "CAPÍTULO 2",
+    "002": {
+      "title": "Capítulo 002",
       "volume": "1",
-      "last_updated": 1786125525,
+      "last_updated": 1786126839,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/2",
       "groups": {
         "default": [
@@ -131,10 +131,10 @@
         ]
       }
     },
-    "004": {
-      "title": "CAPÍTULO 3",
+    "003": {
+      "title": "Capítulo 003",
       "volume": "1",
-      "last_updated": 1786125527,
+      "last_updated": 1786126841,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/3",
       "groups": {
         "default": [
@@ -160,10 +160,10 @@
         ]
       }
     },
-    "005": {
-      "title": "CAPÍTULO 4",
+    "004": {
+      "title": "Capítulo 004",
       "volume": "1",
-      "last_updated": 1786125529,
+      "last_updated": 1786126844,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/4",
       "groups": {
         "default": [
@@ -187,10 +187,10 @@
         ]
       }
     },
-    "006": {
-      "title": "CAPÍTULO 5",
+    "005": {
+      "title": "Capítulo 005",
       "volume": "1",
-      "last_updated": 1786125532,
+      "last_updated": 1786126846,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/5",
       "groups": {
         "default": [
@@ -215,10 +215,10 @@
         ]
       }
     },
-    "007": {
-      "title": "CAPÍTULO 6",
+    "006": {
+      "title": "Capítulo 006",
       "volume": "1",
-      "last_updated": 1786125534,
+      "last_updated": 1786126848,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/6",
       "groups": {
         "default": [
@@ -241,10 +241,10 @@
         ]
       }
     },
-    "008": {
-      "title": "CAPÍTULO 7",
+    "007": {
+      "title": "Capítulo 007",
       "volume": "1",
-      "last_updated": 1786125537,
+      "last_updated": 1786126851,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/7",
       "groups": {
         "default": [
@@ -268,10 +268,10 @@
         ]
       }
     },
-    "009": {
-      "title": "CAPÍTULO 8",
+    "008": {
+      "title": "Capítulo 008",
       "volume": "1",
-      "last_updated": 1786125539,
+      "last_updated": 1786126853,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/8",
       "groups": {
         "default": [
@@ -298,10 +298,10 @@
         ]
       }
     },
-    "010": {
-      "title": "CAPÍTULO 9",
+    "009": {
+      "title": "Capítulo 009",
       "volume": "1",
-      "last_updated": 1786125541,
+      "last_updated": 1786126855,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/9",
       "groups": {
         "default": [
@@ -323,10 +323,10 @@
         ]
       }
     },
-    "011": {
-      "title": "CAPÍTULO 10",
+    "010": {
+      "title": "Capítulo 010",
       "volume": "1",
-      "last_updated": 1786125544,
+      "last_updated": 1786126858,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/10",
       "groups": {
         "default": [
@@ -348,10 +348,10 @@
         ]
       }
     },
-    "012": {
-      "title": "CAPÍTULO 11",
+    "011": {
+      "title": "Capítulo 011",
       "volume": "1",
-      "last_updated": 1786125546,
+      "last_updated": 1786126860,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/11",
       "groups": {
         "default": [
@@ -377,10 +377,10 @@
         ]
       }
     },
-    "013": {
-      "title": "CAPÍTULO 12",
+    "012": {
+      "title": "Capítulo 012",
       "volume": "1",
-      "last_updated": 1786125548,
+      "last_updated": 1786126862,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/12",
       "groups": {
         "default": [
@@ -406,10 +406,10 @@
         ]
       }
     },
-    "014": {
-      "title": "CAPÍTULO 13",
+    "013": {
+      "title": "Capítulo 013",
       "volume": "1",
-      "last_updated": 1786125551,
+      "last_updated": 1786126865,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/13",
       "groups": {
         "default": [
@@ -433,10 +433,10 @@
         ]
       }
     },
-    "015": {
-      "title": "CAPÍTULO 14",
+    "014": {
+      "title": "Capítulo 014",
       "volume": "1",
-      "last_updated": 1786125553,
+      "last_updated": 1786126867,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/14",
       "groups": {
         "default": [
@@ -462,10 +462,10 @@
         ]
       }
     },
-    "016": {
-      "title": "CAPÍTULO 15",
+    "015": {
+      "title": "Capítulo 015",
       "volume": "1",
-      "last_updated": 1786125555,
+      "last_updated": 1786126869,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/15",
       "groups": {
         "default": [
@@ -500,10 +500,10 @@
         ]
       }
     },
-    "017": {
-      "title": "CAPÍTULO 16",
+    "016": {
+      "title": "Capítulo 016",
       "volume": "1",
-      "last_updated": 1786125558,
+      "last_updated": 1786126872,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/16",
       "groups": {
         "default": [
@@ -533,10 +533,10 @@
         ]
       }
     },
-    "018": {
-      "title": "CAPÍTULO 17",
+    "017": {
+      "title": "Capítulo 017",
       "volume": "1",
-      "last_updated": 1786125560,
+      "last_updated": 1786126874,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/17",
       "groups": {
         "default": [
@@ -563,10 +563,10 @@
         ]
       }
     },
-    "019": {
-      "title": "CAPÍTULO 18",
+    "018": {
+      "title": "Capítulo 018",
       "volume": "1",
-      "last_updated": 1786125563,
+      "last_updated": 1786126876,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/18",
       "groups": {
         "default": [
@@ -593,10 +593,10 @@
         ]
       }
     },
-    "020": {
-      "title": "CAPÍTULO 19",
+    "019": {
+      "title": "Capítulo 019",
       "volume": "1",
-      "last_updated": 1786125565,
+      "last_updated": 1786126879,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/19",
       "groups": {
         "default": [
@@ -623,10 +623,10 @@
         ]
       }
     },
-    "021": {
-      "title": "CAPÍTULO 20",
+    "020": {
+      "title": "Capítulo 020",
       "volume": "1",
-      "last_updated": 1786125568,
+      "last_updated": 1786126882,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/20",
       "groups": {
         "default": [
@@ -655,10 +655,10 @@
         ]
       }
     },
-    "022": {
-      "title": "Ler Último",
+    "021": {
+      "title": "Capítulo 021",
       "volume": "1",
-      "last_updated": 1786125573,
+      "last_updated": 1786126885,
       "url": "https://yomu.com.br/ler/necromante-do-cla-da-espada/21",
       "groups": {
         "default": [
